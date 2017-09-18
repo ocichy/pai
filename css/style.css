@@ -1,3 +1,10 @@
 h1 {
     color: #db80c2;
 }
+
+form {
+    border: 5px solid pink;
+    width: 300px;
+    height: 210px;
+    padding-left: 20px;
+}
